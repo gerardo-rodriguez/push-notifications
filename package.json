@@ -1,0 +1,29 @@
+{
+  "name": "push-notifications",
+  "version": "0.0.1",
+  "description": "Learning Push Notifications",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "npm install",
+    "start": "python -m SimpleHTTPServer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrgerardorodriguez/push-notifications.git"
+  },
+  "keywords": [
+    "progressive",
+    "web",
+    "apps",
+    "push",
+    "notifications",
+    "google",
+    "codelab"
+  ],
+  "author": "Gerardo Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrgerardorodriguez/push-notifications/issues"
+  },
+  "homepage": "https://github.com/mrgerardorodriguez/push-notifications#readme"
+}
