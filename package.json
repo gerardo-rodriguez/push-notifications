@@ -1,8 +1,7 @@
 {
   "name": "push-notifications",
   "version": "0.0.1",
-  "description": "Learning Push Notifications",
-  "main": "index.js",
+  "description": "Learning Push Notifications from the Google codelab",
   "scripts": {
     "prestart": "npm install",
     "start": "python -m SimpleHTTPServer"
@@ -12,11 +11,8 @@
     "url": "git+https://github.com/mrgerardorodriguez/push-notifications.git"
   },
   "keywords": [
-    "progressive",
-    "web",
-    "apps",
-    "push",
-    "notifications",
+    "progressive web apps",
+    "push notifications",
     "google",
     "codelab"
   ],
